@@ -1,0 +1,30 @@
+O dia estava quente.
+Muitos sorvetes foram vendidos.
+A temperatura influencia diretamente nas vendas.
+O dia estava quente.
+Muitos sorvetes foram vendidos.
+A temperatura influencia diretamente nas vendas.
+
+TABELA  DO MÊS DE ABRIL
+
+Data       | Vendas de Sorvete | Temperatura (°C)
+01/04/2025 | 120               | 35
+02/04/2025 | 150               | 36
+03/04/2025 | 100               | 33
+04/04/2025 | 90                | 31
+05/04/2025 | 200               | 37
+06/04/2025 | 180               | 36
+07/04/2025 | 170               | 35
+08/04/2025 | 130               | 33
+09/04/2025 | 140               | 34
+10/04/2025 | 190               | 38
+11/04/2025 | 160               | 36
+12/04/2025 | 80                | 30
+13/04/2025 | 220               | 39
+14/04/2025 | 210               | 37
+15/04/2025 | 120               | 34
+16/04/2025 | 100               | 31
+17/04/2025 | 90                | 32
+18/04/2025 | 200               | 38
+19/04/2025 | 190               | 36
+20/04/2025 | 250               | 40
